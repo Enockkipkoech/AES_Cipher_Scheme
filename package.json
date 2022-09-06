@@ -1,0 +1,22 @@
+{
+	"type": "module",
+	"name": "aes_cipher_algorithm",
+	"version": "1.0.0",
+	"description": "This is a AES cipher encryption algorithm. It describes what and how they implemented and libraries included.",
+	"main": "index.js",
+	"scripts": {
+		"start-dev": "node src/index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"AES",
+		"CIPHER",
+		"ENCRYPTION",
+		"ALGORITHMS"
+	],
+	"author": "Enockkipkoech",
+	"license": "ISC",
+	"dependencies": {
+		"crypto-js": "^4.1.1"
+	}
+}
